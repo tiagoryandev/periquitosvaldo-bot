@@ -1,0 +1,13 @@
+{
+    "client": {
+        "client_id": "719557072429252618",
+        "prefix": "r.",
+        "owner": "568182075929395210",
+        "developers": ["568182075929395210"],
+        "supportServer": "https://discord.gg/v2r7VMkWWu",
+        "inviteBot": "https://discord.com/api/oauth2/authorize?client_id=719557072429252618&permissions=8&scope=bot%20applications.commands"
+    },
+    "welcome": {
+        "default": "https://cdn.discordapp.com/attachments/799794529803960320/830442501131337779/final.png"
+    }
+}
